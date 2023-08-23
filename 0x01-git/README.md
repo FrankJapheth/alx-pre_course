@@ -1,1 +1,1 @@
-Second readme on my first alx project
+Second readme on my first alx project about coding
